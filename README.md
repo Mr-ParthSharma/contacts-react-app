@@ -18,3 +18,7 @@ You will be able to add and remove contacts.
 
 You can See the UI of the Page in the PNG files uploaded.
 ![UI](https://github.com/Mr-ParthSharma/contacts-react-app/blob/main/1.PNG)
+You can search Contacts like this 
+![UI](https://github.com/Mr-ParthSharma/contacts-react-app/blob/main/2.PNG)
+You can delete Contacts from UI by clicking on the (X) Button 
+![UI](https://github.com/Mr-ParthSharma/contacts-react-app/blob/main/3.PNG)
