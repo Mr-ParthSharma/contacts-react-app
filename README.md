@@ -15,3 +15,5 @@ You can search contacts
 
 Future Features: 
 You will be able to add and remove contacts.
+
+You can See the UI of the Page in the PNG files uploaded.
